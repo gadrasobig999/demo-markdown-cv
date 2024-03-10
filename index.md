@@ -1,91 +1,120 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Joe Chang 張哲堯
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## 自我簡述
 
+- 4年經驗軟體開發經驗
+- 主要經驗為網頁開發，後端語言熟悉使用java
+- 可獨立作業或與團隊成員合作
 
-## Currently
+## 學歷簡述
 
-Standing on the shoulders of giants
+- 資策會java網頁開發2018-2019
+- 國立海洋大學學識畢業 通訊與導航學系
+- 師大附中
 
-### Specialized in
+## 經歷簡述
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- 一帆科技-軟體工程師 from 2022-08-15
+- 前進國際-軟體工程師 from 2019-07-15 to 2021-08-31
+- 思銳生醫-助理工程師 from 2012-10-15 to 2017-02-28
 
+## 專案經歷
 
-### Research interests
+### 財政部稅務次世代專案HLV子專案
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- 專案內容說明 : 舊專案翻新補測試升版本
+- 負責部分 : SwingGUI翻新及測試
+- 專案時間 : 2023/9至現在開發中
+- 專案規模 : SAx2,PGx5
+- 擔任角色 : PG,Tester
+- 使用技術 : Spring,OracleDB,SQLServer,Junit,Jquery,ServletJSP,Swing
 
+### 財政部稅務輔助行政系統再造案
 
-## Education
+- 專案內容說明 : 舊專案翻新補測試升版本
+- 負責部分 : XML Signature檔案加解密工具整合至網站系統
+- 專案時間 : 2023/12至2024/01
+- 專案規模 : PMx1,SAx1,PGx3
+- 擔任角色 : PG,Tester
+- 使用技術 : Spring,XML Signature,HicosePKI Tools
 
-`1654-1660`
-__The King's School, Grantham.__
+### 財政部稅務次世代專案HOU子專案
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- 專案內容說明 : 主要將舊專案翻新升版本
+- 負責部分 : 網站翻新及測試
+- 專案時間 : 2023/9至現在開發中
+- 專案規模 : SAx2,PGx5
+- 擔任角色 : PG,Tester
+- 使用技術 : Spring,OracleDB,Junit,Jquery,ServletJSP
 
-- Sizar
+### 中小企業融資網頁平台專案
 
-`1667 - death`
-__Trinity College, Cambridge__
+- 專案內容說明 : 開發網頁式使用者介面串接融資信用查詢API
+- 負責部分 : 網站前後端開發
+- 專案時間 : 2022/8-2023/8共一年
+- 專案規模 : SAx2,PMx1
+- 擔任角色 : SA,PG,Tester
+- 使用技術 : SpringBoot,MariaDB,Reactjs,Junit,Webpack
 
-- Fellow
+### 中國信託網路信用卡申請開發案CR
 
+- 專案內容說明 : 新增多張信用卡功能申請。
+- 負責部分 : 網站前後端開發
+- 專案時間 : 2021/5-2021/7共2個月
+- 專案規模 : SAx1，PGx2, Testerx2
+- 擔任角色 : PG,Tester
+- 使用技術 : SpringBoot,Maven,OracleDB,Vuejs,JUnit
+  
+### 中國信託支付綁定代扣查詢功能
 
+- 專案內容說明 : 查找客戶所有信用卡及其綁定支付功能
+- 負責部分 : 網站前後端開發
+- 專案時間 : 2021/2-2021/4共 2個月
+- 專案規模 : SAx1,PGx1,Testerx1
+- 擔任角色 : PG,Tester
+- 使用技術 : SpringBoot,Maven,OracleDB,Vuejs,JUnit
 
-## Awards
+### 中國信託信用卡問卷調查樣板產生器
 
-`2012`
-President, *Royal Society*, London, UK
+- 專案內容說明 : 依客戶DB設定動態產稱問券調查表
+- 負責部分 : 網站前後端開發
+- 專案時間 : 2020/9-2020/11共 2個月
+- 專案規模 : SAx1,PGx1,Testerx1
+- 擔任角色 : PG,Tester
+- 使用技術 : SpringBoot,Maven,OracleDB,Vuejs,JUnit
 
-Associate, *French Academy of Science*, Paris, France
+### 中國信託信用卡電子帳單查詢功能
 
+- 專案內容說明 : 信用卡電子帳單查詢功能
+- 負責部分 : 網站前後端開發
+- 專案時間 : 2020/7-2020/9共 2個月
+- 專案規模 : SAx1,PGx1,Testerx1
+- 擔任角色 : PG,Tester
+- 使用技術 : SpringBoot,Maven,OracleDB,Vuejs,JUnit
 
+### YKK窗戶報價功能
 
-## Publications
+- 專案內容說明 : 估算各種客製成本後產出計算表單
+- 負責部分 : 網站前後端開發
+- 專案時間 : 2020/3-2020/5共 2個月
+- 專案規模 : SAx1,PGx1,Testerx1
+- 擔任角色 : PG,Tester
+- 使用技術 : SpringBoot,Maven,OracleDB,IReport
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### 中國信託網路LinePay信用卡申請開發案:
 
-### Journals
+- 專案內容說明 : 網路信用卡功能申請。
+- 負責部分 : 網站前端開發
+- 專案時間 : 2019/11-2020/03共5個月(前端資料串接及頁面調整)
+- 專案規模 : SAx1，PGx2, Testerx2
+- 擔任角色 : PG,Tester
+- 使用技術 : SpringBoot,Maven,OracleDB,Vuejs,JUnit
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+### 福智人員管理系統修改
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- 專案內容說明 : 更新人員管理系統邏輯。
+- 負責部分 : 網站前後端開發
+- 專案時間 : 2019/8-2020/10共2個月(前端資料串接及頁面調整)
+- 專案規模 : SAx1，PGx1, Testerx1
+- 擔任角色 : PG,Tester
+- 使用技術 : SpringBoot,Maven,OracleDB,Vuejs,JUnit
